@@ -1,2 +1,2 @@
-# apsit-exp-2-dl
+# apsit-exp-devops-lab
 practical purpose
